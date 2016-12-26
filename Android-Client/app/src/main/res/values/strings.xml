@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">WPClient</string>
+    <string name="btnTakePicture">Capture Image</string>
+    <string name="school">Karadeniz Technical University</string>
+    <string name="lesson">Windows Programming</string>
+    <string name="btnUploadToServer">Upload to Server</string>
+    <string name="or">(Or)</string>
+    <string name="btnShowImage">Show Last Processing Picture</string>
+    <string name="processingImage">Show processed image</string>
+    <string name="back">Go Home</string>
+
+</resources>
